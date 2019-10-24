@@ -1,6 +1,6 @@
 sudo apt-get update
 clear
-sudo apt-get install openjdk-8-jdk
+sudo apt-get install default-jdk
 clear
 javac Rev.java
 clear
