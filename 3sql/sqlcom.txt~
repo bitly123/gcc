@@ -1,0 +1,7 @@
+create database wwe;
+USE wwe
+CREATE TABLE raw(reg INT,name VARCHAR(20),rank VARCHAR(20));
+Desc raw;
+INSERT INTO raw(REG,NAME,RANK)VALUES(1,'raju',10);
+INSERT INTO raw(REG,NAME,RANK)VALUES(2,'timon',9);
+INSERT INTO raw(REG,NAME,RANK)VALUES(3,'pumba',7);

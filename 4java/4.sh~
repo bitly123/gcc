@@ -1,0 +1,14 @@
+sudo apt-get update
+clear
+sudo apt-get install default-jdk
+clear
+#sudo apt-get install software-properties-common
+clear
+#sudo add-apt-repository ppa:linuxuprising/java
+clear
+#sudo apt-get install oracle-java11-installer
+clear
+javac Rev.java
+clear
+java Rev
+

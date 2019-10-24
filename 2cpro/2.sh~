@@ -1,0 +1,5 @@
+#! bin/bash
+sudo apt-get install gcc
+gcc -o arms arms.c
+clear
+./arms
